@@ -9,3 +9,6 @@ PID Namespace 用来隔离进程ID.
 Mount Namespace 用来隔离各个进程看到的挂载点视图.  
 User Namespace 隔离用户的用户组ID。？用户组ID是什么？
 Network Namespace 用来隔离网络栈.
+
+##2.2 Linux Cgroups  
+https://blog.csdn.net/weixin_34198453/article/details/92712125
